@@ -67,7 +67,7 @@ Various devices store logs in different locations. Windows, Linux, Mac and other
     
     It mainly stores in the `Event Viewer`.
     
-    ![Shows Events in Event Viewer Interface](https://tryhackme-images.s3.amazonaws.com/user-uploads/5e8dd9a4a45e18443162feab/room-content/30beed26fc514cb7f52773b88a4510b9.gif align="left")
+    ![Shows Events in Event Viewer Interface](/res/30beed26fc514cb7f52773b88a4510b9.gif)
     
 2. **Linux Machine:**
     
@@ -148,7 +148,7 @@ There is a Dashboard in every SIEM that shows the normalized status of every ana
 
 Default Dashboard of Qradar SIEM.
 
-![Default Dashboard of Qradar SIEM](https://tryhackme-images.s3.amazonaws.com/user-uploads/5e8dd9a4a45e18443162feab/room-content/24f94de3e052afd4702440c06e81e622.png align="left")
+![Default Dashboard of Qradar SIEM](/res/24f94de3e052afd4702440c06e81e622.png)
 
 > Which Event ID is generated when event logs are removed?
 > 
@@ -166,7 +166,7 @@ Default Dashboard of Qradar SIEM.
 
 Click on the `View Site` button and then click `Start Activity` from the side window. It will detect `cudominer.exe` as a suspicious activity. Click that process it will redirect to the next window.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686936354152/03266013-0e47-4aa5-b34e-ef93ea2520e7.png align="center")
+![](/res/03266013-0e47-4aa5-b34e-ef93ea2520e7.png)
 
 > Click on Start Suspicious Activity, which process caused the alert?
 > 
@@ -174,7 +174,7 @@ Click on the `View Site` button and then click `Start Activity` from the side wi
 > cudominer.exe 
 > ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686938707716/93eb73a6-c427-4192-8e1b-13a3c90b5365.png align="center")
+![](/res/93eb73a6-c427-4192-8e1b-13a3c90b5365.png)
 
 > Find the event that caused the alert, which user was responsible for the process execution?
 > 
@@ -196,7 +196,7 @@ Click on the `View Site` button and then click `Start Activity` from the side wi
 
 Find the event and click on it to view the rule. And select True-positive as action since its detected a crypto miner right.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686938392678/5442772b-c3ac-4ed1-9222-585a2e557deb.png align="center")
+![](/res/5442772b-c3ac-4ed1-9222-585a2e557deb.png)
 
 > What is the best option that represents the event? Choose from the following:
 > 
