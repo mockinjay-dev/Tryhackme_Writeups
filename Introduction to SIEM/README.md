@@ -12,7 +12,7 @@ A Security Information and Event Management (SIEM) system is an essential tool t
 
 # Network Visibility through SIEM
 
-![](./res/ef9bb34bf47574a0fdbebad347f4a42e.png)
+![](/res/ef9bb34bf47574a0fdbebad347f4a42e.png)
 
 Getting all the information and Logs from the devices that are attached to the network is very hard to get because of the comples network architecture. In that, we have 2 types of information a SIEM can get from a network.
 
